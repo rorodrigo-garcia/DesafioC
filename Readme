@@ -1,0 +1,8 @@
+Lo primero que hice fue crear el entorno 
+Luego el proyecto 
+instale django y cree el ignore
+probe si todo funcionaba
+cree la app y dentro de la misma cree la carpeta views
+en esta cree las funciones que en conjunto a la creacion del html y los url podrian hacer visible distintos tipos de cosas en el buscador
+de esta manera en las views hice las funciones de crear estudiantes,profesores y cursos
+y en el html lo visualice.
